@@ -7,6 +7,8 @@ JWE implementation in IdentityServer4
 
 * **IdentityServer4**:
 OpenID Connect and OAuth 2.0 Framework for ASP.NET Core https://identityserver.io
+* **Helping Articles** : 
+https://www.scottbrady91.com/Identity-Server/Encrypting-Identity-Tokens-in-IdentityServer4
 
 * **Issues** : that this project solves
 
